@@ -1,4 +1,4 @@
-# ATEMs
+# ATEMS
 
 ## Automated Traffic Event Management System
 
